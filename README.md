@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A passionate Fullstack dev from India</h3>
+<h3 align="center">A passionate Fullstack Dev from India</h3>
 
 
 
