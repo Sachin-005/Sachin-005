@@ -56,7 +56,7 @@
 ### GitHub Stats & Activity
 
 <!-- LeetCode Heatmap -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sachin_005?theme=dark&font=Karma)](https://leetcode.com/u/Sachin_005)
+<!--[![LeetCode Stats](https://leetcard.jacoblin.cool/Sachin_005?theme=dark&font=Karma)](https://leetcode.com/u/Sachin_005)
 <!-- Most Used Languages -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-005&layout=compact&theme=default" alt="Top Languages" />
